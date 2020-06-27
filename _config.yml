@@ -1,2 +1,8 @@
+# base theme
 theme: jekyll-theme-cayman
+
+# links are generated for each file
 permalink: /:path/:basename
+
+# Site title (site.title)
+title: Welcome
