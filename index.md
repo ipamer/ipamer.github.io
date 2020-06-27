@@ -2,4 +2,4 @@
 title: Home
 ---
 
-[Help](help.md)
+Welcome.
