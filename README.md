@@ -1,2 +1,5 @@
-[home.md](home.md)
-[help.md](help.md)
+---
+page.title="Home"
+---
+
+[Help](help.md)
