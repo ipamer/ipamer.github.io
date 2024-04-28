@@ -2,6 +2,5 @@
 title: Home
 ---
 
-Welcome.
-
-[squash_the_creeps.zip](dist/squash_the_creeps.zip)
+Example Games:
+- [Squash the Creeps](dist/squash_the_creeps.zip)
